@@ -1,0 +1,3 @@
+[submodule "corpus-joyce-ulysses-tei"]
+	path = corpus-joyce-ulysses-tei
+	url = https://github.com/open-editions/corpus-joyce-ulysses-tei
