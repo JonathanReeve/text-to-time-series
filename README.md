@@ -1,6 +1,6 @@
 # Text-to-time-series
 
-Transforming a text into a collection of numerical time series for mathematical analysis. 
+Transforming a text into a collection of numerical time series for mathematical analysis. Work-in-progress. 
 
 ## Ideas for time series representations of text
 
