@@ -10,8 +10,12 @@ Transforming a text into a collection of numerical time series for mathematical 
  - Tree fragments 
    - see [this dissertation, containing a method for breaking a sentence into syntactic tree fragments](http://www.illc.uva.nl/Research/Publications/Dissertations/DS-2016-07.text.pdf) 
    - maybe of POS representations, Penn Treebank tags
+   - For each word/lemma, count the number of child nodes in its sentence tree. Perhaps couple with the number of words in that sentence.
  - Ngrams 
    - also of POS, tags
+ - Word embeddings
+   - If embedding is into R^300, would take all 300 time series, one for each embedding coordinate, together
+   - Could fix a vector (or collection of vectors) and take cosine similarity measurement from the fixed vector(s)
 
 ## Technical Notes
 
