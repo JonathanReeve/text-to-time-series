@@ -38,5 +38,5 @@ Text preprocessing:
 
  - % verbs per n words
  - % nouns per n words
- - # words per sentence
+ - number of words per sentence
  
