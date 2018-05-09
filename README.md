@@ -22,3 +22,17 @@ Transforming a text into a collection of numerical time series for mathematical 
  - Paragraph
  - Chapter 
    - [Chapterize](https://github.com/JonathanReeve/chapterize) tool could be useful here
+
+## Pipeline
+
+Text preprocessing:
+ - Takes any text, returns: 
+   - spacy doc, 
+   - word indices of divisions: sentences, paragraphs, chapters
+
+## Sensors
+
+ - % verbs per n words
+ - % nouns per n words
+ - # words per sentence
+ 
